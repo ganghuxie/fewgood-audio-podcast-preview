@@ -5,7 +5,7 @@ fewgood audio-podcast preview. It is **not** the official fewgood.io site.
 
 - Official site: https://fewgood.io/ (unchanged)
 - Test preview path: `/audio-podcast-preview/`
-- Source commit in ganghuxie/fewgood branch `audio-podcast-preview`: `0e2a95b5a1293de066e1c6628569ea762a55bad3`
+- Source commit in ganghuxie/fewgood branch `audio-podcast-design-preview`: `ead67cc`
 - Official publisher RSS metadata only. Audio is streamed from official enclosure URLs in the browser; no audio files are hosted here.
 - `noindex,nofollow` on all pages. No production CNAME.
 - Isolated preview does not load official-site library, analytics, or auth scripts.
